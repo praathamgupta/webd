@@ -5,6 +5,9 @@ body{
   background-image: image();
   background-color: lightblue;
 }
+html{
+  scroll-behavior: smooth;
+}
 .topnav {
     background-color: #333;
     display: flex;
